@@ -1,4 +1,4 @@
-# 💰 Calculadora Financeira em Python
+# Calculadora Financeira em Python
 
 Projeto simples em Python para simular economia ao longo do tempo, com ou sem juros.
 
